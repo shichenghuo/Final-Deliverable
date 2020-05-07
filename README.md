@@ -26,6 +26,8 @@ The game we first created in P5.js and moves to server. Focus Practice: Based on
 ### Part 3--Connect the game to server(make it online)
 The game we first created in P5 and moves to the server.
 ### Reference
-https://github.com/zamfi/TwoPlayer
-https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1131s
+-https://github.com/zamfi/TwoPlayer
+-https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1131s
+-https://codepen.io/fossheim/pen/ExjdLRp
+
 
