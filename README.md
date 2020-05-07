@@ -22,6 +22,7 @@ The opening page is created in codesanbox. Focus Practice: HTML/CSS. => CLICK TH
 https://codesandbox.io/s/cp2-final-rfs2x?file=/src/styles.css
 ### Part 2--The Game
 The game we first created in P5.js and moves to server. Focus Practice: Based on Pose Net to build a 2 player game & Classification.
+![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Screen%20Shot%202020-05-07%20at%203.25.36%20PM.png)
 ### Part 3--Connect the game to server(make it online)
 The game we first created in P5 and moves to the server.
 ### Reference
