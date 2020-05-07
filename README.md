@@ -12,5 +12,5 @@ The project tries to provide a fun channel for people to meet with others. Users
 ---
 ## Components
 ###Part 1--Opening Page
-![Image description]()
+![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Opening%20Pgae.png)
 https://codesandbox.io/s/cp2-final-rfs2x?file=/src/styles.css
