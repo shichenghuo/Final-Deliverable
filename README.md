@@ -21,10 +21,11 @@ The opening page is created in codesanbox. Focus Practice: HTML/CSS. => CLICK TH
 ![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Opening%20Pgae.png)
 https://codesandbox.io/s/cp2-final-rfs2x?file=/src/styles.css
 ### Part 2--The Game
-The game we first created in P5.js and moves to server. Focus Practice: Based on Pose Net to build a 2 player game & Classification.=> CLICK THE LINK BELOW TO VIEW THE CODE(THE GAME REQUIRED TO ACCESS TO YOUR WEBCAM)
+The game we first created in P5.js and moves to server. Focus Practice: Based on Pose Net to build a 2 player game & Classification.=> CLICK THE LINK BELOW TO VIEW THE CODE(The game request to access your webcam)
 ![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Screen%20Shot%202020-05-07%20at%203.25.36%20PM.png)
 ### Part 3--Connect the game to server(make it online)
 The game we first created in P5 and moves to the server.
+![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Server1.png)
 ### Reference
 -https://github.com/zamfi/TwoPlayer
 -https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1131s
