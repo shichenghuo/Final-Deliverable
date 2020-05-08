@@ -28,7 +28,7 @@ The game we first created in P5.js and moves to server. Focus Practice: Based on
 ![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Game.png)
 ### Part 3--Connect the game to server(make it online)
 Running game in the server. Host player can share the link to the other player to join. They can use their individual computer to play the game.
-![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Server1.png)
+![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Explain%20part%203-01.png)
 ### Reference
 -https://github.com/zamfi/TwoPlayer<br/>
 -https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1131s<br/>
