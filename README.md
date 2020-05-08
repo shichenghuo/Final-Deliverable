@@ -13,7 +13,8 @@ The objective of the project is to make the prototype as close to reality as pos
 ---
 ## Game mechanism
 
-Each player have 6 gestures they can use to call out the corresponding Tetris shape. In order to win the game, two player need to be collaborative and 
+Each player have 6 gestures they can use to call out the corresponding Tetris shape. In order to win the game, two player need to be collaborative and try to match the central goal shape together! :)
+![Image description](https://github.com/shichenghuo/Final-Deliverable)
 
 ---
 ## Components
