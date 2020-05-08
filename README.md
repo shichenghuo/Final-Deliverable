@@ -26,6 +26,7 @@ https://codesandbox.io/s/cp2-final-rfs2x?file=/src/styles.css
 ### Part 2--The Game
 The game we first created in P5.js and moves to server. Focus Practice: Based on Pose Net to build a 2 player game & Classification.=> CLICK THE LINK BELOW TO VIEW THE CODE(The game request to access your webcam)<br/>
 ![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Game.png)
+https://github.com/shichenghuo/Final-Deliverable/blob/master/The%20Game(Code)/public/sketch.js
 ### Part 3--Connect the game to server(make it online)
 Running game in the server. Host player can share the link to the other player to join. They can use their individual computer to play the game.<br/>
 ![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Explain%20part%203-01.png)
