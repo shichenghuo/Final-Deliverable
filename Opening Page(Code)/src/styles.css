@@ -1,0 +1,127 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title1 span {
+  color: darkblue;
+  text-shadow: 0.25px 6px lightseagreen;
+  animation-name: floating;
+  position: relative;
+  animation-iteration-count: infinite;
+  animation-duration: 4s;
+}
+
+.title1 span:nth-child(2n) {
+  color: orange;
+  text-shadow: 0.25px 6px #ffda8f;
+  position: relative;
+  animation-delay: 1s;
+}
+
+.title1 span:nth-child(3n) {
+  color: red;
+  text-shadow: 0.25px 6px pink;
+  position: relative;
+  animation-delay: 2s;
+}
+
+.title2 {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  animation-name: colorchange;
+  animation-iteration-count: infinite;
+  animation-duration: 4s;
+}
+
+h1 {
+  font-size: 65px;
+  text-transform: uppercase;
+  font-family: "Gotham";
+  letter-spacing: 8px;
+}
+
+@keyframes colorchange {
+  0% {
+    color: black;
+  }
+  25% {
+    color: darkgreen;
+  }
+  50% {
+    color: orange;
+  }
+  75% {
+    color: red;
+  }
+  100% {
+    color: darkblue;
+  }
+}
+
+@keyframes floating {
+  0% {
+    top: 0;
+  }
+  25% {
+    top: -10px;
+  }
+  50% {
+    top: -50px;
+  }
+  75% {
+    top: -20px;
+  }
+  100% {
+    top: 0;
+  }
+}
+
+body {
+  background: #e4fff7;
+}
+
+/* .box {
+  width:100px;
+  height:80px;
+  color:white;
+  position:a
+} */
+
+.box {
+  background: lightcoral;
+  width: 50px;
+  height: 50px;
+  border: 2px solid black;
+  border-bottom: 0px;
+  /* border-color: black; */
+  /* display: grid;
+  grid-template-columns: 30px 30px 30px;
+  grid-row-gap: 2px; */
+}
+
+button {
+  /* margin-left: -50%; */
+  color: white;
+  font-size: 20px;
+  font-family: "Gotham-medium";
+  background-color: #50a190;
+  padding: 25px 45px;
+  transition-duration: 0.4s;
+  border-radius: 8px;
+  /* position: absolute;
+  top: 80%;
+  left: 50%; */
+  border: 0cm;
+}
+
+button:hover {
+  background-color: orange;
+  color: white;
+}
+
+p {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
