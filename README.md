@@ -28,8 +28,8 @@ The game we first created in P5.js and moves to server. Focus Practice: Based on
 Running game in the server. Host player can share the link to the other player to join. They can use their individual computer to play the game.
 ![Image description](https://github.com/shichenghuo/Final-Deliverable/blob/master/Server1.png)
 ### Reference
--https://github.com/zamfi/TwoPlayer
--https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1131s
--https://codepen.io/fossheim/pen/ExjdLRp
+-https://github.com/zamfi/TwoPlayer<br/>
+-https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1131s<br/>
+-https://codepen.io/fossheim/pen/ExjdLRp<br/>
 
 
