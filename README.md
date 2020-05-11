@@ -1,8 +1,8 @@
 # Final-Deliverable
 ### Team members: Shicheng Huo/Xinjia Pang<br/>
-### project name: Polyomino Match
-### The address for the game:https://game.xinjiapang.com/ (Remember to count 3/2/1 and press the start button together. Hope you enjoy the game with your friend :))
-
+### project name: Polyomino Match(This game needs to play remotely and requires to have two computers)
+### The address for the game:https://game.xinjiapang.com/ (Remember to count 3/2/1 and press the start button together. Hope you enjoy the game with your friend. Otherwise the time count down function might not be active :))
+### By entering the game with the link above, you will be the host of the game. You can share the room ID to your friend or the URL(right click=>copy link=>paste to your friend).
 ---
 ### Summary
  
